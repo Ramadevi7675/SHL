@@ -1,0 +1,11 @@
+Assessment Name,Test Type,Duration,Remote Testing Support,Adaptive/IRT Support,Skills Measured,URL
+Numerical Reasoning Test,Cognitive,25 minutes,Yes,Yes,"Numerical Analysis, Data Interpretation",https://www.shl.com/solutions/products/numerical-reasoning-test/
+General Ability Test,Cognitive,20 minutes,Yes,Yes,"Logical Reasoning, Analytical Skills",https://www.shl.com/solutions/products/general-ability-test/
+Verbal Reasoning Test,Cognitive,19 minutes,Yes,Yes,"Reading Comprehension, Verbal Logic",https://www.shl.com/solutions/products/verbal-reasoning-test/
+Situational Judgment Test,Behavioral,25 minutes,Yes,No,"Situational Judgment, Behavior Analysis",https://www.shl.com/solutions/products/situational-judgement-test/
+English Language Test,Language,20 minutes,Yes,No,"English Grammar, Vocabulary",https://www.shl.com/solutions/products/english-language-test/
+Coding Simulation - Python,Technical,30 minutes,Yes,No,"Python Programming, Problem Solving",https://www.shl.com/solutions/products/coding-simulation-python/
+Coding Simulation - JavaScript,Technical,30 minutes,Yes,No,"JavaScript Programming, Debugging",https://www.shl.com/solutions/products/coding-simulation-javascript/
+SQL Knowledge Test,Technical,20 minutes,Yes,No,"SQL Queries, Database Management",https://www.shl.com/solutions/products/sql-knowledge-test/
+Problem Solving Skills Test,Cognitive,30 minutes,Yes,Yes,"Logical Reasoning, Problem Solving",https://www.shl.com/solutions/products/problem-solving-skills-test/
+Full Stack Developer Assessment,Technical,60 minutes,Yes,No,"Python, JavaScript, SQL, Web Development",https://www.shl.com/solutions/products/full-stack-developer-assessment/
